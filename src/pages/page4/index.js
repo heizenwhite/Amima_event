@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavPageContainer, Link } from 'react-windows-ui'
 
-class Page1 extends React.Component {
+class Page4 extends React.Component {
   constructor(props) {
     super(props)
     this.state = {}
@@ -10,12 +10,11 @@ class Page1 extends React.Component {
   render() {
     return (
       <NavPageContainer hasPadding={true} animateTransition={true}>
-        <h1>A propos de l'événement</h1>
-        <p>Information here</p>
-        <Link>Components here</Link>
+        <h1>Conférences</h1>
+        <p>Start adding your fantastic ui here.</p>
       </NavPageContainer>
     )
   }
 }
 
-export default Page1
+export default Page4
