@@ -28,27 +28,14 @@
 **`‣ Clone`** as a **`Repository`:**
 
 ```ksh
-$ git clone https://github.com/virtualvivek/react-windows-ui-boilerplate.git
-$ cd react-windows-ui-boilerplate
+$ git clone https://github.com/heizenwhite/Amima_event
+$ cd Amima_event
 $ npm install
 $ npm start
 ```
 
-# Docs ⚡
-
-
-Find all components and their usage here:
-
-https://virtualvivek.github.io/react-windows-ui/
-
 
 # Repository
 
-https://github.com/virtualvivek/react-windows-ui
+https://github.com/heizenwhite/Amima_event
 
-
-
-# License
-
-**`react-windows-ui-boilerplate`** is licensed under `MIT license`. View [license](https://github.com/virtualvivek/react-windows-ui-boilerplate/blob/main/LICENSE).<br>
-Copyright (c) 2021 [Vivek Verma](https://github.com/virtualvivek)
